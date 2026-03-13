@@ -1,3 +1,4 @@
+![Sales Prediction](thumbail.png)
 # Sales_prediction
 
 Sales Prediction Using Simple Linear Regression
